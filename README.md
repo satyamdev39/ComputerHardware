@@ -67,6 +67,8 @@ Advanced Hardware Concepts
 | 14 | Performance & Upgrades | 🔴 Practical |
 | 15 | Advanced Hardware Concepts | 🔴 Advanced |
 
+## Structure
+![pic](https://github.com/satyamdev39/ComputerHardware/blob/main/structure.JPG?raw=true)
 ## 🧠 How to Study
 
 For every topic:
