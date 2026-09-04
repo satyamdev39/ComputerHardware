@@ -1,0 +1,70 @@
+# 09 — Ports, I/O & Peripherals
+
+## 1. I/O
+
+Input/Output describes communication between the computer and external or internal devices.
+
+## 2. Common Interfaces
+
+### USB
+Used for many peripherals and storage devices.
+
+### HDMI / DisplayPort
+Used for digital video and, where supported, audio.
+
+### Ethernet
+Wired networking.
+
+### Audio
+Analog and digital audio interfaces are used for sound input/output.
+
+### Wi-Fi / Bluetooth
+Wireless communication technologies.
+
+## 3. Peripherals
+
+Examples:
+
+- Keyboard
+- Mouse
+- Webcam
+- Microphone
+- Monitor
+- Printer
+- External storage
+
+## 4. MCQ
+
+**Q1. Which is commonly used for wired networking?**  
+A. Ethernet  
+B. HDMI  
+C. DDR  
+D. NVMe
+
+**Q2. Which can carry digital video?**  
+A. DisplayPort  
+B. DIMM  
+C. SATA power  
+D. EPS12V
+
+**Q3. Bluetooth is primarily:**  
+A. Wireless communication  
+B. CPU cache  
+C. Storage protocol  
+D. PSU standard
+
+**Q4. A keyboard is primarily an:**  
+A. Input device  
+B. Output-only device  
+C. Storage device  
+D. Power device
+
+### Answers
+1. A  
+2. A  
+3. A  
+4. A
+
+## 🔬 Practical Task
+
+Identify every external port on your computer and record its name, connector type and typical purpose.
